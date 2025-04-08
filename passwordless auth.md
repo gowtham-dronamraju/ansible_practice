@@ -8,7 +8,7 @@ ssh using
 
        ssh-copy-id -f "-o IdentityFile /home/gowtham/gowtham-aws-keypair.pem" ubuntu@52.91.113.202
      
-
+to login from the terminal use the below command
 e.g. ssh -o ' IdentityFile /home/gowtham/gowtham-aws-keypair.pem' 'ubuntu@52.91.113.202'
 
 
